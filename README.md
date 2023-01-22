@@ -20,10 +20,10 @@ I am a Technology lover and student who likes to build digital experiences. Find
 
 #
 
+#
+
 ### 📊 Stats
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielV1213&show_icons=true&theme=github_dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielV1213&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #
