@@ -1,6 +1,6 @@
 # 👨‍💻 Daniel Vélez
 
-**`Multimedia Engineering student and Frontend Developer`**
+**`Multimedia Engineer and Frontend Developer`**
 
 I am a Technology lover who likes to build digital experiences. Find out more about me below.
 
