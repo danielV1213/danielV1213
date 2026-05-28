@@ -27,6 +27,6 @@ I am a Technology lover who likes to build digital experiences. Find out more ab
 
 ### 📊 Stats
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielV1213&show_icons=true&theme=github_dark)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielV1213&show_icons=true&theme=dark)
 
 #
